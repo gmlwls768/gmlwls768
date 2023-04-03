@@ -2,7 +2,7 @@
 ## I'm College student
 ## Learning Web Front-End 
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder?text=Newbie!!!)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&ttext=Newbie!!!)
 
 <hr/>
 
