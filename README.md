@@ -4,11 +4,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&text=Newbie!!!&animation=blink)
 
-<hr/>
+<br/>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gmlwls768&show_icons=true&theme=chartreuse-dark)
 
-<hr/>
+<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmlwls768&count_bg=%2300C8FA&title_bg=%2346E1F4&icon=digitalocean.svg&icon_color=%2309F0ED&title=%3AD&edge_flat=false)]([https://hits.seeyoufarm.com](https://github.com/gmlwls768))
 
