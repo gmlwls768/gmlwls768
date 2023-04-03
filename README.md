@@ -1,7 +1,11 @@
-# Hi there 
-## I'm College student
-## Learning Web Front-End 
+<div align="center">
 
+  # Hi there 
+  ## I'm College student
+  ## Learning Web Front-End 
+
+</div>
+  
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&text=Newbie!!!&animation=blink)
 
 <br/>
