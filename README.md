@@ -14,6 +14,10 @@
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmlwls768)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmlwls768&count_bg=%2300C8FA&title_bg=%2346E1F4&icon=digitalocean.svg&icon_color=%2309F0ED&title=%3AD&edge_flat=false)]([https://hits.seeyoufarm.com](https://github.com/gmlwls768))
 
 <!--
