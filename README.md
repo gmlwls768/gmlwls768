@@ -13,10 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=chartreuse-dark)
 
-<br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmlwls768&count_bg=%2300C8FA&title_bg=%2346E1F4&icon=digitalocean.svg&icon_color=%2309F0ED&title=%3AD&edge_flat=false)]([https://hits.seeyoufarm.com](https://github.com/gmlwls768))
-
   
 </div>
   
