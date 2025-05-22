@@ -2,10 +2,17 @@
 
 <a href="https://gmlwls768.github.io"><img src="https://img.shields.io/badge/Porfoilo-Web-blue"/></a>
 
-  # Hi there 
+
 
   
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&text=Newbie!!!&animation=blink)
+## Project
+
+| 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
+|------|------------|------|------|------|
+| 2025.04 ~ 진행중 | mollo | 태그, 친구, 그룹을 이용한 일기 서비스 | 백엔드 개발 | 팀 프로젝트 |
+| 2025.02 ~ 2025.04 | 학점 가방 | 재학생 시간표 통합 플랫폼 | 백엔드 개발 | 팀 프로젝트 |
+| 2024.07 ~ 2024.09 | 만수무강 | 고령자 및 보호자를 위한 원격 헬스케어 서비스 | 프론트엔드(안드로이드) 개발 | 팀 프로젝트 |
+| 2023.10 ~ 2023.12 | health care service | 식단 및 운동 기반 헬스케어 서비스 | 팀장, 백엔드 개발 | 팀 프로젝트 |
 
 <br/>
 
